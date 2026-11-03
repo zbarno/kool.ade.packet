@@ -1,13 +1,13 @@
 {
   "schemaVersion": 1,
   "uid": "afb3553e-2eec-410f-9f68-8e7b6ff364a7",
-  "createdAtMs": 1793698668110,
-  "updatedAtMs": 1793698668110,
-  "revision": 3,
+  "createdAtMs": 1793699923392,
+  "updatedAtMs": 1793699923392,
+  "revision": 4,
   "data": {
     "featureUid": "afb3553e-2eec-410f-9f68-8e7b6ff364a7",
     "approvalContractSha256": "38a211629fa7df5a12a4a4a5b4c921ea1103db431c9b79aa45420c27ccd9ffdb",
-    "authorRunId": "e9ad6c99-e215-4873-a969-825362d81a6b",
-    "authorSessionId": "5ad46d85-ff90-4282-ad9e-5c466e8035d4"
+    "authorRunId": "399a5be8-9c1a-43a5-91da-1c996441c6db",
+    "authorSessionId": "fec36469-101c-463f-ad24-ca2fc24364a6"
   }
 }
