@@ -1,0 +1,15 @@
+{
+  "createdAtMs": 1793702625103,
+  "data": {
+    "choice": "local",
+    "path": "state/lifecycle_plan_authors/72ded714-aacb-4f67-ae07-fb7cc061d525.json",
+    "recordId": "state/lifecycle_plan_authors/72ded714-aacb-4f67-ae07-fb7cc061d525.json",
+    "remoteCommit": "7b3008e6b5dfcd2084ebac5a219a09b5200d68bf",
+    "sourceOperationId": "f1c09389-a9ea-495e-be61-6622e1cacc17",
+    "workspaceId": "5f4437ba-4a7a-476b-9d88-31dcfa9c7bc1"
+  },
+  "revision": 1,
+  "schemaVersion": 1,
+  "uid": "871fbb2e-da00-4a22-bdf9-e38ccb4ae3aa",
+  "updatedAtMs": 1793702625103
+}
