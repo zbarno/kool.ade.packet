@@ -1,0 +1,18 @@
+# Operator-local secrets and runtime data
+.env
+.env.*
+credentials/
+credentials.*
+*.pem
+*.key
+*.p12
+implementation/
+**/implementation/
+logs/
+**/logs/
+tmp/
+**/tmp/
+*.log
+*.tmp
+*.temp
+*.swp
