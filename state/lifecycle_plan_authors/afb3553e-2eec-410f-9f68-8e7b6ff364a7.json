@@ -1,0 +1,13 @@
+{
+  "schemaVersion": 1,
+  "uid": "afb3553e-2eec-410f-9f68-8e7b6ff364a7",
+  "createdAtMs": 1793697510747,
+  "updatedAtMs": 1793697510747,
+  "revision": 1,
+  "data": {
+    "featureUid": "afb3553e-2eec-410f-9f68-8e7b6ff364a7",
+    "approvalContractSha256": "27274b244f7d88f5738a30674d0b92465f8770551a1528a3db1868a031fab648",
+    "authorRunId": "38621e30-8bf8-4c96-9abb-22373857db49",
+    "authorSessionId": "104c5d01-6d8f-4f57-903e-1681f3f5b128"
+  }
+}
